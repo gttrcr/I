@@ -1,7 +1,7 @@
 ---
 title: "Accademia Nazionale Virgiliana: Ricerca e Divulgazione"
 collection: publications
-type: writings
+category: writings
 permalink: /publication/2025-04-10-accademia-ricerca-divulgazione
 date: 2025-04-10
 author: "Riccardo Gatti"

@@ -1,7 +1,7 @@
 ---
 title: "Progetto per una stazione radioastronomica"
 collection: publications
-type: writings
+category: writings
 permalink: /publication/2025-04-20-stazione-radioastronomica
 date: 2025-04-20
 author: "Riccardo Gatti"
