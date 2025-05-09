@@ -2,7 +2,7 @@
 title: "DeBruijnNewmanH"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-01-20-debruijn-newman-h
+permalink: https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/
 excerpt: 'This resource defines the DeBruijnNewmanH function in the Wolfram Function Repository, related to the De Bruijn–Newman constant.'
 date: 2021-01-20
 venue: 'MathWorld – A Wolfram Web Resource'
