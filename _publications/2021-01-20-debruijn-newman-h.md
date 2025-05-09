@@ -11,4 +11,5 @@ paperurl: 'https://resources.wolframcloud.com/FunctionRepository/resources/DeBru
 # bibtexurl: 'http://example.com/bibtex.bib'  # BibTeX not available
 citation: 'Gatti, R. (2021). &quot;DeBruijnNewmanH.&quot; From <i>MathWorld – A Wolfram Web Resource</i>. https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/'
 ---
+![some discription](/files/astroinformatics_aam.pdf "some discription")
 <!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
