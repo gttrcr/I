@@ -1,8 +1,8 @@
 ---
-title: "Progetto per una stazione radioastronomica"
+title: "Ricerca radioastronomica AAM"
 collection: publications
 category: writings
-permalink: /files/progetto_per_una_stazione_radioastronomica.pdf
+permalink: /files/ricerca_radioastronomica_aam.pdf
 date: 2025-04-20
 author: "Riccardo Gatti"
 location: "Monzambano, Mantova, Italia"
