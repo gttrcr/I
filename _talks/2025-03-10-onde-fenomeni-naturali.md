@@ -14,6 +14,6 @@ Il suono, in particolare, è un’espressione diretta di questo principio, unend
 La natura manifesta onde che percepiamo come luce, onde che chiamiamo suoni, e onde che sono alla base delle tecnologie del futuro. Esplorare le onde significa andare alla radice della realtà, dalle vibrazioni primordiali del cosmo alla sinfonia della vita quotidiana. E se tutto fosse onda? Il mondo stesso è una musica ancora da comprendere?
 
 📺 **Video - Parte 1**: [YouTube Short](https://www.youtube.com/shorts/lulDkckaL70)  
-📺 **Video - Parte 2**: [Guarda su YouTube](https://www.youtube.com/watch?v=x_9gxpdqmD0)  
-📑 **Slide della presentazione**: [Visualizza su Google Slides](https://docs.google.com/presentation/d/1v1UrMeibYaoGh-MX4iE8BswV2iop7n1lRZ1wWPwn3Sg)
+📺 **Video - Parte 2**: [YouTube](https://www.youtube.com/watch?v=x_9gxpdqmD0)  
+📑 **Slide**: [Google Slides](https://docs.google.com/presentation/d/1v1UrMeibYaoGh-MX4iE8BswV2iop7n1lRZ1wWPwn3Sg)
 🌐 **Sito ufficiale**: [www.onebewhole.com](https://www.onebewhole.com)

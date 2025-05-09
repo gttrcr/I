@@ -15,5 +15,5 @@ La matematica, pur non vincolata alla realtà sensibile come la fisica, si confi
 
 📺 **Video - Parte 1**: [YouTube Short](https://www.youtube.com/shorts/avmVadEZ71Y)  
 📺 **Video - Parte 2**: [YouTube Short](https://www.youtube.com/shorts/cKmv8PH_QFI)  
-📑 **Slide della presentazione**: [Visualizza su Google Slides](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)  
+📑 **Slide**: [Google Slides](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)  
 🌐 **Sito ufficiale**: [www.onebewhole.com](https://www.onebewhole.com)

@@ -15,5 +15,5 @@ Tuttavia, man mano che ci addentriamo nei dettagli, il quadro complessivo divent
 
 📺 **Video - Parte 1**: [YouTube Short](https://www.youtube.com/shorts/196fXxli0Iw)  
 📺 **Video - Parte 2**: [YouTube Short](https://www.youtube.com/shorts/kY4yf_JOob8)  
-📑 **Slide della presentazione**: [Visualizza su Google Slides](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
+📑 **Slide**: [Google Slides](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
 🌐 **Sito ufficiale**: [www.onebewhole.com](https://www.onebewhole.com)

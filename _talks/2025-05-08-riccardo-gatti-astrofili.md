@@ -11,5 +11,5 @@ location: "Mantova, Italia"
 
 Il talk si concentra su cosa avviene concretamente all’interno di un osservatorio o laboratorio, e quali sono i problemi scientifici ancora aperti. L’intervento invita il pubblico a riflettere su come la curiosità possa spingere avanti le frontiere della conoscenza, anche al di fuori dei contesti accademici.
 
-📺 **Video**: [Guarda su YouTube](https://www.youtube.com/watch?v=UGolZAA2E-c)  
-📑 **Slide della presentazione**: [Visualizza su Google Slides](https://docs.google.com/presentation/d/1VojKFfiyP4n0zEsuGLv5mulMSDL07ZCslnsJGmsTHEI)
+📺 **Video**: [YouTube](https://www.youtube.com/watch?v=UGolZAA2E-c)  
+📑 **Slide**: [Google Slides](https://docs.google.com/presentation/d/1VojKFfiyP4n0zEsuGLv5mulMSDL07ZCslnsJGmsTHEI)

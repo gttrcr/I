@@ -11,5 +11,5 @@ location: "Mantova, Italia"
 
 Il talk spiega come variazioni nella frequenza delle onde siano alla base di importanti scoperte astronomiche e come queste stesse osservazioni abbiano condotto a una comprensione più profonda della struttura e dell’evoluzione dell’universo. Una conferenza pensata per rendere accessibili idee complesse attraverso esempi chiari e coinvolgenti.
 
-📺 **Video**: [Guarda su YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)  
-📑 **Slide della presentazione**: [Visualizza su Google Slides](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg/edit?slide=id.p1#slide=id.p1)
+📺 **Video**: [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)  
+📑 **Slide**: [Google Slides](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg/edit?slide=id.p1#slide=id.p1)
