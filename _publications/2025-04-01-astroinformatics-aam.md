@@ -1,7 +1,7 @@
 ---
 title: "Astroinformatics AAM: Data Science per l’Astronomia Amatoriale"
 collection: publications
-type: "Writings"
+type: writings
 permalink: /publication/2025-04-01-astroinformatics-aam
 venue: "Associazione Astrofili Mantovani"
 date: 2025-04-01

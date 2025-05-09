@@ -1,8 +1,8 @@
 ---
 title: "Accademia Nazionale Virgiliana: Ricerca e Divulgazione"
 collection: publications
-type: "Writings"
-permalink: /publications/2025-04-10-accademia-ricerca-divulgazione
+type: writings
+permalink: /publication/2025-04-10-accademia-ricerca-divulgazione
 date: 2025-04-10
 author: "Riccardo Gatti"
 location: "Mantova, Italia"
