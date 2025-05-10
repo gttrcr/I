@@ -2,7 +2,7 @@
 title: "Number of Distinct Solutions for the Maximum Value of the Gilbreath Equation"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-gilbreath-equation-max-solutions
+permalink: 'http://oeis.org/A346270'
 excerpt: 'This OEIS entry gives the number of distinct solutions that yield the maximum value of the Gilbreath equation for ordered sequences of n integers.'
 date: 2022-01-01
 venue: 'The On-Line Encyclopedia of Integer Sequences (OEIS), Entry A346270'
