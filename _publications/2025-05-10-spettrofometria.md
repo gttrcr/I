@@ -1,5 +1,5 @@
 ---
-title: "Spettrofotometria AAM"
+title: "Spettrofotometria AAM "
 collection: publications
 category: writings
 permalink: /files/spectroph.pdf
